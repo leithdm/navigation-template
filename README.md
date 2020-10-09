@@ -1,5 +1,6 @@
 # Navigation Template
-![Navigation Template](assets/imgs/snapshot.png)
+
+![Navigation Template](assets/imgs/snapshot.PNG)
 
 ## Overview
 - A single page website using vanilla JS to animate navigation. 
