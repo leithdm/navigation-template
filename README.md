@@ -6,7 +6,7 @@
 - A single page website using vanilla JS to animate navigation. 
 
 ## Technologies
-- [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [CSS Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 
 ## Credits
 
